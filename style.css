@@ -1,0 +1,24 @@
+
+.position-absolute{
+    position: absolute;
+    top: 50%;
+    left: 41%;
+    right: 0;
+    bottom: -90%;
+
+
+}
+
+.services{
+    margin-top: 93px;
+}
+.row img{
+    width: 247px;
+    height: 180px;
+}
+.customer img {
+    width: 86px;
+    height: 72px;
+ 
+    display: inlie-block;
+}
