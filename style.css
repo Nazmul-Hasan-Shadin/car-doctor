@@ -1,4 +1,14 @@
 
+
+ .slider-wrapper{
+   width: 1100px;
+   height: 100px;
+
+ }
+
+
+
+
 .position-absolute{
     position: absolute;
     top: 50%;

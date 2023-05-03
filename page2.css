@@ -1,0 +1,28 @@
+.items ul li {
+ background-color:#f8f9fa;
+ color: black;
+
+    
+}
+.services{
+    background-color: #f3f3f3;
+    height: 242px;
+}
+.col-md-5 {
+    width: 195px;
+    height: 120px; /* Set the desired height */
+  }
+  .wrapper{
+    width: 68%;
+  }
+.services2{
+    width: 27%;
+    height: 330px;
+}
+i.fa-sharp.fa-solid.fa-diamond-turn-right {
+    width: 47px;
+    font-size: 27px;
+}
+.slider{
+    
+}
