@@ -28,7 +28,7 @@
 }
                                 /*====================small device====================  */
 
-@media(max-width:590px){
+@media(max-width:575px){
 .banner-top{
      margin-top:25%;
 }
