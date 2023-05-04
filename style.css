@@ -26,7 +26,54 @@
 .container.logoo {
     height: 66px;
 }
+                                /*====================small device====================  */
 
+@media(max-width:575px){
+.banner-top{
+     margin-top:25%;
+}
+.qualified-text{
+    margin-top:11% ;
+  }
+  .navnar-m{
+    width:57%;
+  }
+  .service-card{
+    position: relative;
+    
+   
+    
+}
+.service-card-under{
+     position: absolute;
+    
+    
+     left:66%;
+
+}
+                                
+                                
+                                
+                                
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    /* ======================medium device====================== */
 @media(min-width:576px) and (max-width:768px){
   .qualified-text{
     margin-top:100px ;
