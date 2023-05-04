@@ -1,0 +1,22 @@
+.addusr-carousel{
+
+   
+
+    display: block;
+    position: relative;
+    top: 51px;
+}
+.form-wrapper{
+  margin-top: 145px;
+
+}
+.form-wrapper input{
+    padding: 9px;
+    border-radius: 8px;
+    width: 39%;
+    margin: 0 14px 12px 0;
+}
+.form-wrapper textarea{
+    width: 78%;
+    border-radius: 5px;
+}
