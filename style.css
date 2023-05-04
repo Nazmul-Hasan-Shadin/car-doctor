@@ -28,6 +28,9 @@
 .container.logoo {
     height: 66px;
 }
+.navbar-nav {
+    background-color: #ADD8E6;
+  }
                                 /*====================small device====================  */
 
 @media(max-width:575px){
