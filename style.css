@@ -28,9 +28,12 @@
 }
                                 /*====================small device====================  */
 
-@media(max-width:575px){
+@media(max-width:590px){
 .banner-top{
      margin-top:25%;
+}
+.container.logoo {
+    width: 52%;
 }
 .qualified-text{
     margin-top:11% ;
@@ -44,12 +47,24 @@
    
     
 }
+.service-card img {
+    width: 58%;
+}
 .service-card-under{
      position: absolute;
     
     
      left:66%;
 
+}
+
+.product-card{
+    position: relative;
+}
+
+.card-body.productss {
+    position: absolute;
+    left: 64%;
 }
                                 
                                 
