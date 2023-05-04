@@ -8,15 +8,7 @@
 
 
 
-.position-absolute{
-    position: absolute;
-    top: 50%;
-    left: 41%;
-    right: 0;
-    bottom: -90%;
 
-
-}
 
 .services{
     margin-top: 93px;
@@ -30,4 +22,72 @@
     height: 72px;
  
     display: inlie-block;
+}
+.container.logoo {
+    height: 66px;
+}
+
+@media(min-width:576px) and (max-width:768px){
+  .qualified-text{
+    margin-top:100px ;
+  }
+   .service-card{
+    position: relative;
+    
+   
+    
+}
+.service-card-under{
+     position: absolute;
+     position: absolute;
+     top:19%;
+     left:50%;
+
+}
+.product-card{
+      
+    display: flex;
+    align-items: center;
+
+}
+
+.team-card{
+    position: relative;
+
+
+}
+.team-card div{
+    position: absolute;
+    top:0;
+    left: 55%;
+}
+.logoo img{
+
+    height:107%;
+}
+.banner-top{
+   margin-top: 45px;
+}
+
+.position-absolute{
+    position: absolute;
+    top: 50%;
+    left: 41%;
+    right: 0;
+    bottom: -90%;
+
+
+}
+
+    
+}
+
+
+
+.position-absolute{
+
+    top: 20%!important;
+   
+
+
 }
