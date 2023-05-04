@@ -5,7 +5,9 @@
    height: 100px;
 
  }
-
+.overlap-img{
+    left: 174px;
+}
 
 
 
@@ -33,8 +35,13 @@
      margin-top:25%;
 }
 .container.logoo {
-    width: 52%;
+    margin-right: 29px;
 }
+
+.container.logoo img {
+    height: 72px;
+}
+
 .qualified-text{
     margin-top:11% ;
   }
@@ -68,6 +75,10 @@
 }
 .team-card img {
     margin: 0 auto;
+}
+.overlap-img {
+    max-width: 42%;
+    left: 49%;
 }
                                 
                                 
